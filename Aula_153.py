@@ -33,4 +33,10 @@ Desvantagens: importa tudo de um modulo
 from sys import exit, platform
 
 print(platform)
+
+
+for numero in range(1, 10):
+    print(numero)
+print('-' * 10)
+
 exit()
