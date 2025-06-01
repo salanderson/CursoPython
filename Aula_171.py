@@ -12,6 +12,7 @@ lista_b = [1, 2, 3, 4]
 ---------------- Resultado
 lista_soma = [2, 4, 6, 8]
 
+Aulas 171 a 172
 """
 
 print('soluçao 1')
